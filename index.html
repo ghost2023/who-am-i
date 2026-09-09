@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Who Am I?</title>
+<meta name="description" content="Party guessing game. Everyone can see your character except you.">
+<meta name="theme-color" content="#0e0b1a">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<style>
+:root{--bg:#0e0b1a;--card:#191430;--line:#2e2757;--fg:#f4f1ff;--dim:#a79fd0;--acc:#ff4d8d;--acc2:#7c5cff;--ok:#2fd39b}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%}
+body{background:#0e0b1a radial-gradient(900px 520px at 50% -18%,#33256b,#0e0b1a 68%) fixed;color:var(--fg);
+  font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-tap-highlight-color:transparent}
+main{max-width:560px;margin:0 auto;padding:0 16px calc(20px + env(safe-area-inset-bottom));padding-top:calc(18px + env(safe-area-inset-top))}
+section{display:flex;flex-direction:column;gap:14px}
+[hidden]{display:none!important}
+h1{font-size:34px;margin:0;letter-spacing:-1px}
+h1 span{background:linear-gradient(90deg,var(--acc),var(--acc2));-webkit-background-clip:text;background-clip:text;color:transparent}
+h2{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--dim);margin:0}
+p{margin:0;color:var(--dim)}
+button{font:inherit;color:inherit;cursor:pointer;border:0;background:none}
+a{color:var(--acc);text-decoration:none}
+
+/* start page */
+.hero{display:flex;flex-direction:column;align-items:center;text-align:center;gap:8px;padding:14px 0 6px}
+.logo{width:64px;height:64px;border-radius:22px;display:grid;place-items:center;font-size:34px;font-weight:800;
+  background:linear-gradient(135deg,var(--acc),var(--acc2));box-shadow:0 14px 34px -14px var(--acc2)}
+.modes{display:grid;gap:10px}
+.modes button{text-align:left;padding:15px 16px;border-radius:18px;background:var(--card);border:1px solid var(--line)}
+.modes button b{font-size:17px}
+.modes button small{display:block;color:var(--dim);margin-top:3px;line-height:1.35}
+.modes button.on{border-color:transparent;background:linear-gradient(135deg,#ff4d8d24,#7c5cff24);box-shadow:inset 0 0 0 2px var(--acc)}
+.modes button.on small{color:#ddd6ff}
+.hrow{display:flex;align-items:center;gap:12px;margin-bottom:12px}
+.hrow span{margin-right:auto;font-size:12px;color:#6f6799}
+.lnk{font-size:13px;font-weight:700;color:var(--acc)}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.chip{padding:11px 12px;border-radius:14px;background:#0f0c22;border:1px solid var(--line);text-align:left;font-size:14px;font-weight:600;display:flex;gap:7px;align-items:center}
+.chip i{margin-left:auto;font-style:normal;font-size:11px;color:#6f6799}
+.chip.on{border-color:var(--acc);background:linear-gradient(135deg,#ff4d8d22,#7c5cff22)}
+.pgrid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.prow{position:relative}
+.prow input{padding-right:32px}
+.prow .x{position:absolute;right:6px;top:50%;transform:translateY(-50%);width:24px;height:24px;border-radius:8px;color:#6f6799;font-size:18px;line-height:1}
+.times{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.times button{padding:12px 4px;border-radius:14px;background:#0f0c22;border:1px solid var(--line);font-weight:700;font-size:15px;color:var(--dim)}
+.times button.on{border-color:transparent;background:linear-gradient(135deg,var(--acc),var(--acc2));color:#fff}
+.dock{position:sticky;bottom:0;display:flex;flex-direction:column;gap:8px;padding:14px 0 calc(6px + env(safe-area-inset-bottom));
+  background:linear-gradient(to top,var(--bg) 62%,transparent)}
+details summary{font-weight:700;cursor:pointer}
+details p{margin-top:10px}
+footer{text-align:center;font-size:12px;color:#5c5484;padding-bottom:4px}
+
+.box{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:14px}
+.row{display:flex;gap:10px;align-items:center}
+.btn{padding:16px;border-radius:16px;font-weight:700;font-size:17px;background:linear-gradient(135deg,var(--acc),var(--acc2));width:100%;box-shadow:0 8px 24px -12px var(--acc)}
+.btn:active{transform:translateY(1px)}
+.btn.ghost{background:var(--card);border:1px solid var(--line);box-shadow:none}
+.btn.ok{background:linear-gradient(135deg,#2fd39b,#12a97b);box-shadow:none}
+.btn.sm{padding:12px;font-size:15px}
+input{font:inherit;color:inherit;background:#0f0c22;border:1px solid var(--line);border-radius:12px;padding:12px;width:100%}
+input:focus{outline:2px solid var(--acc2);outline-offset:-2px}
+
+/* game screens */
+.card img{display:block;width:100%;max-height:38vh;object-fit:contain;border-radius:16px;margin:0 auto 16px;background:#0f0c22}
+li img{width:34px;height:34px;border-radius:9px;object-fit:cover;vertical-align:middle;margin-right:6px}
+.card{border-radius:26px;padding:24px 20px;text-align:center;background:linear-gradient(160deg,#2a2158,#171233);border:1px solid var(--line);
+  font-size:clamp(30px,9vw,52px);font-weight:800;line-height:1.1;letter-spacing:-1px;overflow-wrap:break-word}
+.card small{display:block;font-size:14px;font-weight:600;letter-spacing:0;color:var(--dim);margin-top:14px}
+.card a{white-space:nowrap}
+.big{text-align:center;padding:26px 10px}
+.big b{display:block;font-size:clamp(26px,7vw,38px);margin:6px 0}
+.tmr{text-align:center;font-variant-numeric:tabular-nums;font-size:34px;font-weight:800}
+.bar{height:6px;border-radius:99px;background:var(--line);overflow:hidden;margin-top:8px}
+.bar div{height:100%;background:linear-gradient(90deg,var(--acc),var(--acc2));transition:width 1s linear}
+.low{color:var(--acc)}
+ol{margin:0;padding-left:22px}
+li{margin:6px 0;font-weight:600}
+li small{font-weight:400;color:var(--dim)}
+#toast{position:fixed;left:50%;bottom:28px;transform:translateX(-50%);background:#231b45;border:1px solid var(--line);
+  padding:12px 18px;border-radius:99px;font-size:14px;z-index:9}
+</style>
+</head>
+<body>
+<main>
+
+<section id="setup">
+  <header class="hero">
+    <div class="logo">?</div>
+    <h1>Who <span>Am I?</span></h1>
+    <p>Everyone can see your character. Except you.</p>
+  </header>
+
+  <div class="modes" id="modes">
+    <button data-mode="solo"><b>🙋 One by one</b>
+      <small>Take turns. Hold the phone to your forehead and ask the room until you guess it.</small></button>
+    <button data-mode="group"><b>⚡ Group race</b>
+      <small>Everyone gets a character at once. First one to figure out their own wins.</small></button>
+  </div>
+
+  <div class="box">
+    <div class="hrow"><h2>Categories</h2><span id="catCount"></span>
+      <button class="lnk" id="allCats">All</button><button class="lnk" id="noCats">None</button></div>
+    <div class="grid" id="cats"></div>
+  </div>
+
+  <div class="box">
+    <div class="hrow"><h2>Players</h2><span id="pCount"></span>
+      <button class="lnk" id="addP">+ Add</button></div>
+    <div class="pgrid" id="players"></div>
+  </div>
+
+  <div class="box">
+    <div class="hrow"><h2>Timer</h2><span id="tHint"></span></div>
+    <div class="times" id="times">
+      <button data-s="0">Off</button><button data-s="30">0:30</button><button data-s="60">1:00</button>
+      <button data-s="90">1:30</button><button data-s="120">2:00</button><button data-s="180">3:00</button>
+    </div>
+  </div>
+
+  <details class="box"><summary>How to play</summary>
+    <p><b>One by one:</b> pass the phone to whoever's turn it is. They hold it up facing everyone else — screen out,
+    don't peek — and ask yes/no questions until they guess who they are.</p>
+    <p><b>Group race:</b> pass the phone around during the reveal so everyone learns everyone else's character
+    (except their own). Then ask around the room — first to guess theirs wins.</p>
+  </details>
+
+  <footer>Works offline. Add to home screen.</footer>
+
+  <div class="dock">
+    <button class="btn" id="start">Start game</button>
+    <button class="btn ghost sm" id="install" hidden>Install app</button>
+  </div>
+</section>
+
+<section id="handoff" hidden>
+  <div class="box big">
+    <p>Pass the phone to</p>
+    <b id="hName"></b>
+    <p>Hold it to your forehead, screen facing everyone else.</p>
+  </div>
+  <button class="btn" id="hGo">I'm ready</button>
+  <button class="btn ghost sm" id="hQuit">End game</button>
+</section>
+
+<section id="play" hidden>
+  <div class="row" style="justify-content:space-between">
+    <span id="pName" style="font-weight:700"></span>
+    <span id="pScore" style="color:var(--dim)"></span>
+  </div>
+  <div class="tmr" hidden><span class="tval"></span><div class="bar"><div class="tfill"></div></div></div>
+  <div class="card" id="pCard"></div>
+  <button class="btn ok" id="got">Got it ✅</button>
+  <div class="grid">
+    <button class="btn ghost sm" id="skip">Skip ⏭</button>
+    <button class="btn ghost sm" id="endTurn">End turn</button>
+  </div>
+</section>
+
+<section id="reveal" hidden>
+  <div class="box big" id="rHide">
+    <p>Everyone <b style="display:inline;font-size:inherit">except</b></p>
+    <b id="rName"></b>
+    <p>look at the screen.</p>
+  </div>
+  <div class="card" id="rCard" hidden></div>
+  <button class="btn" id="rGo">Show character</button>
+  <button class="btn ghost sm" id="rQuit">End game</button>
+</section>
+
+<section id="race" hidden>
+  <div class="tmr" hidden><span class="tval"></span><div class="bar"><div class="tfill"></div></div></div>
+  <p style="text-align:center">Tap a player the moment they guess their own character.</p>
+  <div id="raceList" style="display:flex;flex-direction:column;gap:8px"></div>
+  <button class="btn ghost sm" id="raceEnd">End round &amp; reveal</button>
+</section>
+
+<section id="results" hidden>
+  <h1 id="rTitle">Results</h1>
+  <div class="box"><ol id="board"></ol></div>
+  <button class="btn" id="again">Play again</button>
+  <button class="btn ghost sm" id="back">Change setup</button>
+</section>
+
+</main>
+<div id="toast" hidden></div>
+
+<script src="characters.js"></script>
+<script src="game.js"></script>
+<script>
+const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
+const st = { mode:'solo', cats:CATEGORIES.map(c=>c.id), players:['Player 1','Player 2','Player 3'], timerOn:true, secs:90 };
+const g = {};  // runtime round state
+try { Object.assign(st, JSON.parse(localStorage.whoami || '{}')); } catch {}
+
+const pic = n => `<a href="https://www.google.com/search?tbm=isch&q=${encodeURIComponent(n)}" target="_blank" rel="noopener">🔍 photos</a>`;
+// broken image? drop it, the name still carries the card
+const face = c => (c.img ? `<img src="${c.img}" alt="" onerror="this.remove()">` : '') + c.name;
+const tag = c => `<small>${c.emoji} ${c.cat}${c.img ? '' : ' · ' + pic(c.name)}</small>`;
+const show = id => { $$('main > section').forEach(s => s.hidden = s.id !== id); scrollTo(0,0); };
+const toast = m => { const t=$('#toast'); t.textContent=m; t.hidden=false; clearTimeout(t._h); t._h=setTimeout(()=>t.hidden=true,2200); };
+
+/* ---------- setup ---------- */
+CATEGORIES.forEach(c => {
+  const b = document.createElement('button'); b.className = 'chip'; b.dataset.id = c.id;
+  b.innerHTML = `<span>${c.emoji}</span>${c.name}<i>${c.items.length}</i>`;
+  b.onclick = () => { const i = st.cats.indexOf(c.id); i < 0 ? st.cats.push(c.id) : st.cats.splice(i, 1); syncCats(); };
+  $('#cats').append(b);
+});
+function syncCats() {
+  $$('#cats .chip').forEach(b => b.classList.toggle('on', st.cats.includes(b.dataset.id)));
+  $('#catCount').textContent = makeDeck(st.cats, CATEGORIES).length + ' characters';
+}
+$('#allCats').onclick = () => { st.cats = CATEGORIES.map(c => c.id); syncCats(); };
+$('#noCats').onclick = () => { st.cats = []; syncCats(); };
+
+$$('#modes button').forEach(b => b.onclick = () => { st.mode = b.dataset.mode; syncMode(); });
+const syncMode = () => $$('#modes button').forEach(b => b.classList.toggle('on', b.dataset.mode === st.mode));
+
+function renderPlayers() {
+  const w = $('#players'); w.innerHTML = '';
+  st.players.forEach((p, i) => {
+    const row = document.createElement('div'); row.className = 'prow';
+    const inp = document.createElement('input'); inp.value = p; inp.placeholder = 'Player ' + (i + 1);
+    inp.oninput = e => st.players[i] = e.target.value;
+    const x = document.createElement('button'); x.className = 'x'; x.textContent = '×'; x.title = 'Remove';
+    x.onclick = () => { st.players.splice(i, 1); renderPlayers(); };
+    row.append(inp, x); w.append(row);
+  });
+  $('#pCount').textContent = st.players.length + (st.players.length === 1 ? ' player' : ' players');
+}
+$('#addP').onclick = () => {
+  st.players.push('Player ' + (st.players.length + 1)); renderPlayers();
+  $$('#players input').pop().focus();
+};
+
+$$('#times button').forEach(b => b.onclick = () => {
+  const s = +b.dataset.s; st.timerOn = s > 0; if (s) st.secs = s; syncTime();
+});
+function syncTime() {
+  $$('#times button').forEach(b => b.classList.toggle('on', st.timerOn ? +b.dataset.s === st.secs : b.dataset.s === '0'));
+  $('#tHint').textContent = st.timerOn ? 'per turn' : 'play at your own pace';
+}
+
+syncCats(); syncMode(); renderPlayers(); syncTime();
+
+/* ---------- timer ---------- */
+function timer(sec, onEnd) {
+  clearInterval(g.t); g.left = sec; g.max = sec; paintTime();
+  g.t = setInterval(() => { g.left--; paintTime(); if (g.left <= 0) { clearInterval(g.t); navigator.vibrate?.([200,80,200]); onEnd(); } }, 1000);
+}
+function paintTime() {
+  $$('.tval').forEach(e => { e.textContent = fmt(g.left); e.classList.toggle('low', g.left <= 10); });
+  $$('.tfill').forEach(e => e.style.width = (100 * g.left / g.max) + '%');
+}
+const showTimer = on => $$('.tmr').forEach(e => e.hidden = !on);
+const stopTimer = () => clearInterval(g.t);
+
+let lock; const awake = async on => { try { on ? lock = await navigator.wakeLock.request('screen') : (lock?.release(), lock = null); } catch {} };
+
+/* ---------- game ---------- */
+$('#start').onclick = () => {
+  st.players = st.players.map(p => p.trim()).filter(Boolean);
+  if (!st.players.length) st.players = ['Player 1'];
+  renderPlayers();
+  if (!st.cats.length) return toast('Pick at least one category');
+  if (st.mode === 'group' && st.players.length < 2) return toast('Group race needs 2+ players');
+  localStorage.whoami = JSON.stringify(st);
+  newGame();
+};
+$('#again').onclick = newGame;
+$('#back').onclick = $('#hQuit').onclick = $('#rQuit').onclick = () => { stopTimer(); awake(false); show('setup'); };
+
+function newGame() {
+  g.deck = makeDeck(st.cats, CATEGORIES); g.i = 0;
+  showTimer(st.timerOn);
+  if (st.mode === 'solo') { g.turn = 0; g.scores = st.players.map(() => 0); handoff(); }
+  else { g.cards = deal(g.deck, st.players.length); g.rev = 0; g.done = []; reveal(); }
+}
+
+/* one by one */
+function handoff() { awake(false); show('handoff'); $('#hName').textContent = st.players[g.turn]; }
+$('#hGo').onclick = () => {
+  g.got = 0; awake(true); show('play');
+  $('#pName').textContent = st.players[g.turn];
+  nextCard();
+  if (st.timerOn) timer(st.secs, endTurn);
+};
+function nextCard() {
+  g.card = draw(g.deck, g);
+  $('#pCard').innerHTML = face(g.card) + tag(g.card);
+  $('#pScore').textContent = st.timerOn ? g.got + ' correct' : '';
+}
+$('#got').onclick = () => { g.got++; st.timerOn ? nextCard() : endTurn(); };
+$('#skip').onclick = nextCard;
+$('#endTurn').onclick = () => endTurn();
+function endTurn() {
+  stopTimer(); g.scores[g.turn] += g.got; g.turn++;
+  g.turn >= st.players.length ? results() : handoff();
+}
+
+/* group race */
+function reveal() {
+  awake(false); show('reveal');
+  $('#rName').textContent = st.players[g.rev];
+  $('#rHide').hidden = false; $('#rCard').hidden = true;
+  $('#rGo').textContent = 'Show character';
+}
+$('#rGo').onclick = () => {
+  if ($('#rCard').hidden) {
+    const c = g.cards[g.rev];
+    $('#rCard').innerHTML = face(c) + `<small>${c.emoji} ${c.cat} — this is ${st.players[g.rev]}${c.img ? '' : ' · ' + pic(c.name)}</small>`;
+    $('#rCard').hidden = false; $('#rHide').hidden = true;
+    $('#rGo').textContent = g.rev + 1 < st.players.length ? 'Everyone saw it — next' : "Everyone saw it — let's play";
+  } else {
+    g.rev++;
+    g.rev < st.players.length ? reveal() : race();
+  }
+};
+function race() {
+  awake(true); show('race'); renderRace();
+  if (st.timerOn) timer(st.secs, () => results());
+}
+function renderRace() {
+  const w = $('#raceList'); w.innerHTML = '';
+  st.players.forEach((p, i) => {
+    const done = g.done.indexOf(i);
+    const b = document.createElement('button');
+    b.className = 'btn ' + (done < 0 ? 'ghost' : 'ok');
+    b.textContent = done < 0 ? p : `${medal(done)} ${p} — ${g.cards[i].name}`;
+    b.disabled = done >= 0;
+    b.onclick = () => { g.done.push(i); renderRace(); if (g.done.length === st.players.length) results(); };
+    w.append(b);
+  });
+}
+$('#raceEnd').onclick = () => results();
+const medal = i => ['🥇','🥈','🥉'][i] || (i+1) + '.';
+
+/* results */
+function results() {
+  stopTimer(); awake(false); show('results');
+  const o = $('#board'); o.innerHTML = '';
+  if (st.mode === 'solo') {
+    $('#rTitle').textContent = 'Final scores';
+    st.players.map((p,i) => ({p, s:g.scores[i]})).sort((a,b) => b.s - a.s)
+      .forEach(r => o.insertAdjacentHTML('beforeend', `<li>${r.p} <small>— ${r.s} correct</small></li>`));
+  } else {
+    $('#rTitle').textContent = g.done.length ? 'Winner: ' + st.players[g.done[0]] : 'Nobody got it';
+    const order = [...g.done, ...st.players.map((_,i) => i).filter(i => !g.done.includes(i))];
+    order.forEach(i => o.insertAdjacentHTML('beforeend',
+      `<li>${g.cards[i].img ? `<img src="${g.cards[i].img}" alt="" onerror="this.remove()">` : ''}${st.players[i]}
+       <small>— ${g.cards[i].name}${g.done.includes(i) ? '' : ' (never guessed)'}</small></li>`));
+  }
+}
+
+/* pwa */
+if ('serviceWorker' in navigator) addEventListener('load', () => navigator.serviceWorker.register('sw.js'));
+addEventListener('beforeinstallprompt', e => {
+  e.preventDefault(); $('#install').hidden = false;
+  $('#install').onclick = () => { e.prompt(); $('#install').hidden = true; };
+});
+</script>
+</body>
+</html>
