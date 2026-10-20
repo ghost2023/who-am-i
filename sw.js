@@ -1,4 +1,4 @@
-const C = 'whoami-v3'; // bump this version whenever you edit a file below
+const C = 'whoami-v4'; // bump this version whenever you edit a file below
 const FILES = ['./', 'index.html', 'characters.js', 'game.js', 'manifest.webmanifest', 'icon.svg'];
 
 self.addEventListener('install', e => { self.skipWaiting(); e.waitUntil(caches.open(C).then(c => c.addAll(FILES))); });

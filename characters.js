@@ -300,6 +300,68 @@ Pablo Escobar|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Pablo_Esc
 Marilyn Manson|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Marilyn_Manson_2024.jpg/500px-Marilyn_Manson_2024.jpg
 Jared Leto|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Jared_Leto_by_Gage_Skidmore_2.jpg/500px-Jared_Leto_by_Gage_Skidmore_2.jpg
 Ellen DeGeneres|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Ellen_DeGeneres_2011.jpg/500px-Ellen_DeGeneres_2011.jpg
+Benito Mussolini|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Mussolini_mezzobusto.jpg/500px-Mussolini_mezzobusto.jpg
+Mao Zedong|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg/500px-Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg
+Pol Pot|https://upload.wikimedia.org/wikipedia/commons/f/fe/Pol_Pot_in_1978.png
+Idi Amin|https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Idi_Amin_at_UN_%28United_Nations%2C_New_York%29_gtfy.00132_%28cropped%29.jpg/500px-Idi_Amin_at_UN_%28United_Nations%2C_New_York%29_gtfy.00132_%28cropped%29.jpg
+Saddam Hussein|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Saddam_Hussein_in_1998.jpg/500px-Saddam_Hussein_in_1998.jpg
+Osama bin Laden|https://upload.wikimedia.org/wikipedia/commons/c/ca/Osama_bin_Laden_portrait.jpg
+Muammar Gaddafi|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg/500px-Moamer_el_Gadafi_%28cropped%29.jpg
+Kim Jong-il|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Kim_Jong-il_on_August_24%2C_2011.jpg/500px-Kim_Jong-il_on_August_24%2C_2011.jpg
+Xi Jinping|https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/500px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg
+Ali Khamenei|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%283_x_4_cropped%29.jpg/500px-Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%283_x_4_cropped%29.jpg
+Bashar al-Assad|https://upload.wikimedia.org/wikipedia/commons/d/df/Bashar_al-Assad_in_May_2024.png
+Benjamin Netanyahu|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/500px-Benjamin_Netanyahu%2C_February_2023.jpg
+Recep Tayyip Erdoğan|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Turkish_President_Recep_Tayyip_Erdo%C4%9Fan_in_January_2024_%28cropped%29.jpg/500px-Turkish_President_Recep_Tayyip_Erdo%C4%9Fan_in_January_2024_%28cropped%29.jpg
+Jair Bolsonaro|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%283x4%29.jpg/500px-Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%283x4%29.jpg
+Javier Milei|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg/500px-Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg
+Boris Johnson|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/500px-Boris_Johnson_official_portrait_%28cropped%29.jpg
+Nigel Farage|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Official_portrait_of_Nigel_Farage_MP_%283x4_cropped%29.jpg/500px-Official_portrait_of_Nigel_Farage_MP_%283x4_cropped%29.jpg
+Prince Andrew|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/The_Duke_of_York_in_Belfast_%28cropped_3%29.jpg/500px-The_Duke_of_York_in_Belfast_%28cropped_3%29.jpg
+Prince Harry|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Prince_Harry_launching_the_2020_Invictus_Games_%28cropped%29.jpg/500px-Prince_Harry_launching_the_2020_Invictus_Games_%28cropped%29.jpg
+Meghan Markle|https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg/500px-SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg
+Bill Clinton|https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/500px-Bill_Clinton.jpg
+Rudy Giuliani|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rudy_Giuliani_%2849279859833%29_%28cropped%29.jpg/500px-Rudy_Giuliani_%2849279859833%29_%28cropped%29.jpg
+Steve Bannon|https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Steve_Bannon_in_2025_%283x4_cropped%29.jpg/500px-Steve_Bannon_in_2025_%283x4_cropped%29.jpg
+Tucker Carlson|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tucker_Carlson_%2854670577849%29_%28cropped_2%29.jpg/500px-Tucker_Carlson_%2854670577849%29_%28cropped_2%29.jpg
+Candace Owens|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Candace_Owens_%2853805331465%29_%28cropped%29.jpg/500px-Candace_Owens_%2853805331465%29_%28cropped%29.jpg
+Ben Shapiro|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ben_Shapiro_December_2025_%28cropped%29.jpg/500px-Ben_Shapiro_December_2025_%28cropped%29.jpg
+Jordan Peterson|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jordan_Peterson_in_2018_%283x4_cropped%29.jpg/500px-Jordan_Peterson_in_2018_%283x4_cropped%29.jpg
+Charlie Kirk|https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg/500px-Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg
+Greta Thunberg|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Greta_Thunberg_in_May_2026_%28cropped_3x4%29.jpg/500px-Greta_Thunberg_in_May_2026_%28cropped_3x4%29.jpg
+Charles Manson|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Manson1968.jpg/500px-Manson1968.jpg
+Ted Bundy|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Ted_Bundy_headshot.jpg/500px-Ted_Bundy_headshot.jpg
+Jeffrey Dahmer|https://upload.wikimedia.org/wikipedia/en/0/0c/Jeffrey_Dahmer_Milwaukee_Police_1991_mugshot.jpg
+Jack the Ripper|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/500px-JacktheRipper1888.jpg
+Al Capone|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Al_Capone_in_1930_%28manually_dusted%29.jpg/500px-Al_Capone_in_1930_%28manually_dusted%29.jpg
+El Chapo|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Booking_photo_of_Joaquin_%E2%80%9CEl_Chapo%E2%80%9C_Guzman_%28front%29.jpg/500px-Booking_photo_of_Joaquin_%E2%80%9CEl_Chapo%E2%80%9C_Guzman_%28front%29.jpg
+Luigi Mangione
+Gypsy Rose Blanchard
+Joe Exotic|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Joe_Exotic_%28Santa_Rose_County_Jail%29.png/500px-Joe_Exotic_%28Santa_Rose_County_Jail%29.png
+Carole Baskin|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Carole_Baskin_September_2019.png/500px-Carole_Baskin_September_2019.png
+Billy McFarland|https://upload.wikimedia.org/wikipedia/commons/6/6f/Billy_McFarland_Entrepreneur_2014_%28cropped%29.jpg
+Adam Neumann|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Mr._Adam_Neumann%2C_Founder_WeWork_%28Start_Up_India_Participant%29_call_on_the_Prime_Minister%2C_Shri_Narendra_Modi%2C_in_New_Delhi_on_January_15%2C_2016_-_cropped.jpg/500px-Mr._Adam_Neumann%2C_Founder_WeWork_%28Start_Up_India_Participant%29_call_on_the_Prime_Minister%2C_Shri_Narendra_Modi%2C_in_New_Delhi_on_January_15%2C_2016_-_cropped.jpg
+Do Kwon|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Do_Kwon.png/500px-Do_Kwon.png
+Shia LaBeouf|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shia_LaBeouf_2022.jpg/500px-Shia_LaBeouf_2022.jpg
+Ezra Miller|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Ezra_Miller_by_Gage_Skidmore_2.jpg/500px-Ezra_Miller_by_Gage_Skidmore_2.jpg
+Azealia Banks|https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/AzealiaBanksBrixt140924_%2874_of_77%29_%2853997797453%29_%28cropped%29.jpg/500px-AzealiaBanksBrixt140924_%2874_of_77%29_%2853997797453%29_%28cropped%29.jpg
+Tory Lanez|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Tory_Lanez_NYC_2018_%28cropped%29.jpg/500px-Tory_Lanez_NYC_2018_%28cropped%29.jpg
+DaBaby|https://upload.wikimedia.org/wikipedia/commons/9/9d/DaBaby_2026.jpg
+Young Thug|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Young_Thug_in_2021.png/500px-Young_Thug_in_2021.png
+Soulja Boy|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Soulja.jpg/500px-Soulja.jpg
+Bhad Bhabie|https://upload.wikimedia.org/wikipedia/commons/2/2d/Bhad_Bhabie_passport.jpg
+Belle Delphine|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Belle_Delphine_-_2020-b_%28cropped%29.png/500px-Belle_Delphine_-_2020-b_%28cropped%29.png
+Shane Dawson|https://upload.wikimedia.org/wikipedia/commons/7/7a/Shane_Dawson_with_fan_%28cropped%29.png
+Tana Mongeau|https://upload.wikimedia.org/wikipedia/commons/4/4c/Tana_Mongeau_in_Six_Feet_Above_podcast_02-24_-_2.png
+Colin Kaepernick|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Colin_Kaepernick_August_2025_%28cropped%29.jpg/500px-Colin_Kaepernick_August_2025_%28cropped%29.jpg
+Kyrie Irving|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kyrie_Irving_%2851830909437%29_%28cropped%29.jpg/500px-Kyrie_Irving_%2851830909437%29_%28cropped%29.jpg
+Rachel Dolezal|https://upload.wikimedia.org/wikipedia/commons/f/f2/Rachel_Dolezal_at_Spokane_Rally_cropped_2.jpg
+Caitlyn Jenner|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Web_Summit_2017_-_Future_Societies_SM0_1242_%2838228173296%29_%28cropped%29.jpg/500px-Web_Summit_2017_-_Future_Societies_SM0_1242_%2838228173296%29_%28cropped%29.jpg
+Lizzo|https://upload.wikimedia.org/wikipedia/commons/1/16/Lizzo_September_2025.png
+Mel Gibson|https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Mel_Gibson_Cannes_2016_2.jpg/500px-Mel_Gibson_Cannes_2016_2.jpg
+Woody Allen|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Woody_Allen_Cannes_2016.jpg/500px-Woody_Allen_Cannes_2016.jpg
+Roman Polanski|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2023.11.13._Roman_Polanski_Photo_Mariusz_Kubik_06.JPG/500px-2023.11.13._Roman_Polanski_Photo_Mariusz_Kubik_06.JPG
+Kevin Spacey|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Kevin_Spacey-9243.jpg/500px-Kevin_Spacey-9243.jpg
 `),
 
 cat('icons', 'Icons & Legends', '👑', `
@@ -398,6 +460,324 @@ Ben 10|https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.pn
 Steven Universe|https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Steven_Universe_-_Title_Card.png/330px-Steven_Universe_-_Title_Card.png
 The Minions|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Minion_sculpture_in_Brisbane%2C_2024.jpg/500px-Minion_sculpture_in_Brisbane%2C_2024.jpg
 Olaf|https://upload.wikimedia.org/wikipedia/en/6/6d/Olaf_from_Disney%27s_Frozen.png
+`),
+
+
+cat('genz', 'Gen Z Classics', '🧃', `
+Hannah Montana|https://upload.wikimedia.org/wikipedia/en/2/2b/Hannah_Montana_Logo.PNG
+Carly from iCarly|https://thumb.wikimedia.org/wikipedia/en/thumb/6/6d/Icarly_logo.svg/500px-Icarly_logo.svg.png
+Spencer Shay|https://upload.wikimedia.org/wikipedia/en/e/ef/ICarly_Season_4.jpg
+Sam Puckett|https://upload.wikimedia.org/wikipedia/en/b/b4/Sam_and_Cat_logo2.png
+Zack and Cody|https://upload.wikimedia.org/wikipedia/en/8/88/The_Suite_Life_of_Zack_%26_Cody_logo.png
+London Tipton|https://upload.wikimedia.org/wikipedia/en/e/e2/London_Tipton.png
+Drake and Josh|https://thumb.wikimedia.org/wikipedia/en/thumb/f/f8/Drake_%26_Josh_Nickelodeon_Logo.svg/500px-Drake_%26_Josh_Nickelodeon_Logo.svg.png
+Cat Valentine
+Lizzie McGuire|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Lizzie_McGuire_logo.svg/500px-Lizzie_McGuire_logo.svg.png
+Raven Baxter|https://upload.wikimedia.org/wikipedia/commons/e/e2/Raven_Baxter_smiling.png
+Alex Russo|https://upload.wikimedia.org/wikipedia/en/4/4c/Alex_Russo.jpg
+Troy Bolton|https://upload.wikimedia.org/wikipedia/en/a/a3/HSMcharacters.jpg
+Sharpay Evans|https://upload.wikimedia.org/wikipedia/en/a/a3/HSMcharacters.jpg
+Ned from Ned's Declassified|https://upload.wikimedia.org/wikipedia/en/f/f1/Ned%27s_Declassified_School_Survival_Guide_%28logo%29.png
+Big Time Rush|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Big_Time_Rush_Band.jpg/500px-Big_Time_Rush_Band.jpg
+Austin and Ally|https://upload.wikimedia.org/wikipedia/en/c/c9/Austin_%26_ally_tv_series_logo.png
+Jessie|https://upload.wikimedia.org/wikipedia/en/0/00/Jessie_logo.png
+Good Luck Charlie|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Goodluck_charly_logo.svg/500px-Goodluck_charly_logo.svg.png
+Shake It Up|https://upload.wikimedia.org/wikipedia/en/c/cf/Shake_it_up_logo.png
+Barney the Dinosaur|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Barney_show_in_Qatar_%284340543390%29.jpg/500px-Barney_show_in_Qatar_%284340543390%29.jpg
+Elmo|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Elmo.jpg/500px-Elmo.jpg
+Cookie Monster|https://upload.wikimedia.org/wikipedia/en/5/5e/Cisforcookie.jpg
+Big Bird|https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/LBJ_Foundation_DIG14086-065_%2834650875464%29.jpg/500px-LBJ_Foundation_DIG14086-065_%2834650875464%29.jpg
+Oscar the Grouch|https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/LBJ_Foundation_DIG14086-069_%2834650875314%29.jpg/500px-LBJ_Foundation_DIG14086-069_%2834650875314%29.jpg
+Tinky Winky|https://thumb.wikimedia.org/wikipedia/en/thumb/5/5a/Teletubbies_Logo.png/500px-Teletubbies_Logo.png
+Blue from Blue's Clues|https://thumb.wikimedia.org/wikipedia/en/thumb/2/20/Blues_Clues_logo.svg/500px-Blues_Clues_logo.svg.png
+Bob the Builder|https://thumb.wikimedia.org/wikipedia/en/thumb/c/c6/Bob_the_Builder_logo.svg/500px-Bob_the_Builder_logo.svg.png
+Thomas the Tank Engine|https://upload.wikimedia.org/wikipedia/en/e/eb/Thomas_the_Tank_Engine_1946.webp
+Caillou|https://upload.wikimedia.org/wikipedia/en/8/86/Caillou_new_logo.png
+Arthur the Aardvark|https://upload.wikimedia.org/wikipedia/commons/f/f0/ArthurCharacter.jpg
+Clifford the Big Red Dog|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/CliffordTheBigRedDog1stEdition1963.png/500px-CliffordTheBigRedDog1stEdition1963.png
+Curious George|https://upload.wikimedia.org/wikipedia/en/d/d8/Curious_George.png
+Garfield|https://upload.wikimedia.org/wikipedia/en/4/46/Garfieldand_friends.png
+Hello Kitty|https://upload.wikimedia.org/wikipedia/en/0/05/Hello_kitty_character_portrait.png
+Tommy Pickles|https://upload.wikimedia.org/wikipedia/en/e/e4/Tommy_Pickles.png
+Angelica Pickles|https://upload.wikimedia.org/wikipedia/en/6/6f/Angelica_Pickles.jpg
+Arnold from Hey Arnold
+CatDog|https://upload.wikimedia.org/wikipedia/en/6/64/CatDog.jpeg
+Invader Zim|https://upload.wikimedia.org/wikipedia/en/2/20/Invader_Zim_title_card.png
+Jake the Dog|https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Jake_the_Dog_character.svg/500px-Jake_the_Dog_character.svg.png
+Marceline the Vampire Queen|https://upload.wikimedia.org/wikipedia/en/4/48/Adventure_Time_-_Marceline.png
+Ice King|https://upload.wikimedia.org/wikipedia/en/7/78/Ice_King.png
+Mordecai and Rigby
+Raven from Teen Titans|https://upload.wikimedia.org/wikipedia/en/6/6c/Raven_%28DC_Comics%29_Modern_001.png
+Beast Boy|https://upload.wikimedia.org/wikipedia/en/0/09/Beast_Boy_%28DC_Rebirth_version%29.jpg
+Blossom, Bubbles & Buttercup
+Mojo Jojo
+Ed, Edd n Eddy
+Grim from Billy & Mandy|https://upload.wikimedia.org/wikipedia/en/e/e0/BillyAndMandy.png
+Bloo|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Foster%27s_Home_for_Imaginary_Friends_logo.svg/500px-Foster%27s_Home_for_Imaginary_Friends_logo.svg.png
+Cosmo and Wanda|https://thumb.wikimedia.org/wikipedia/en/thumb/5/55/The_Fairly_OddParents_logo.svg/500px-The_Fairly_OddParents_logo.svg.png
+Robbie Rotten|https://upload.wikimedia.org/wikipedia/en/e/e7/Robbie_Rotten_LazyTown.png
+Kick Buttowski|https://upload.wikimedia.org/wikipedia/en/e/eb/Kick_Buttowski-_Suburban_Daredevil_logo.png
+Chowder|https://upload.wikimedia.org/wikipedia/en/3/31/Chowder_logo.png
+Leonardo the Ninja Turtle|https://upload.wikimedia.org/wikipedia/en/e/ed/Leonardo_%28Teenage_Mutant_Ninja_Turtles%29.jpg
+The Red Power Ranger|https://upload.wikimedia.org/wikipedia/en/c/cc/Mighty_Morphin_Power_Rangers_logo.png
+Sid the Sloth
+Scrat|https://upload.wikimedia.org/wikipedia/en/e/ec/Scrat_Ice_Age.png
+King Julien|https://upload.wikimedia.org/wikipedia/en/5/53/All_Hail_King_Julien_Logo.png
+Marty the Zebra|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Madagascar_logo.png/500px-Madagascar_logo.png
+Puss in Boots|https://upload.wikimedia.org/wikipedia/en/8/8a/Puss_in_Boots_from_Shrek.png
+Lord Farquaad|https://upload.wikimedia.org/wikipedia/en/7/7b/Shrek_%282001_animated_feature_film%29.jpg
+Princess Fiona|https://upload.wikimedia.org/wikipedia/en/b/b9/Princess_Fiona.png
+Toothless|https://upload.wikimedia.org/wikipedia/en/7/77/How_to_Train_Your_Dragon_%282003_book_cover%29.jpg
+Megamind|https://upload.wikimedia.org/wikipedia/en/8/89/Megamind2010Poster.jpg
+The Grinch|https://upload.wikimedia.org/wikipedia/en/7/73/The_Grinch.png
+The Cat in the Hat|https://upload.wikimedia.org/wikipedia/en/1/10/The_Cat_in_the_Hat.png
+Alvin and the Chipmunks|https://upload.wikimedia.org/wikipedia/en/4/42/Alvin_and_the_chipmunks1958.jpg
+Sharkboy and Lavagirl|https://upload.wikimedia.org/wikipedia/en/1/14/Adventures_of_shark_boy_and_lava_girl_poster.jpg
+Napoleon Dynamite|https://upload.wikimedia.org/wikipedia/en/8/87/Napoleon_dynamite_post.jpg
+Jigglypuff|https://upload.wikimedia.org/wikipedia/en/2/22/Pok%C3%A9mon_Jigglypuff_art.png
+Charizard|https://upload.wikimedia.org/wikipedia/en/1/1f/Pok%C3%A9mon_Charizard_art.png
+Eevee|https://upload.wikimedia.org/wikipedia/en/a/a9/Pok%C3%A9mon_Eevee_art.png
+Mewtwo|https://upload.wikimedia.org/wikipedia/en/4/43/Pok%C3%A9mon_Mewtwo_art.png
+Yoshi|https://upload.wikimedia.org/wikipedia/en/d/db/Yoshi_%28Nintendo_character%29.png
+Waluigi|https://upload.wikimedia.org/wikipedia/en/c/c1/Waluigi_by_Shigehisa_Nakaue.png
+Shadow the Hedgehog|https://upload.wikimedia.org/wikipedia/en/4/41/ShadowTheHedgehogSA2.png
+Tails
+Spyro|https://thumb.wikimedia.org/wikipedia/en/thumb/1/1f/Spyro_Logo_2026.png/500px-Spyro_Logo_2026.png
+Freddy Fazbear|https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Five_Nights_at_Freddy%27s.svg/500px-Five_Nights_at_Freddy%27s.svg.png
+Slender Man|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Slenderman_redacted_bg.jpg/500px-Slenderman_redacted_bg.jpg
+The Roblox Noob
+Angry Birds Red|https://upload.wikimedia.org/wikipedia/en/f/f9/The_Angry_Birds_Movie_poster.png
+Talking Tom|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Talking_Tom_%26_Friends_logo.svg/500px-Talking_Tom_%26_Friends_logo.svg.png
+Jake from Subway Surfers|https://thumb.wikimedia.org/wikipedia/en/thumb/a/a3/Subway_Surfers_logo.svg/500px-Subway_Surfers_logo.svg.png
+Tom Nook|https://upload.wikimedia.org/wikipedia/en/7/72/Tom_Nook.png
+Isabelle from Animal Crossing|https://upload.wikimedia.org/wikipedia/en/2/26/Isabelle_AF.png
+Fortnite Peely
+Yugi Muto|https://upload.wikimedia.org/wikipedia/en/b/b3/YugiMotoyamiyugi.png
+Agumon|https://thumb.wikimedia.org/wikipedia/en/thumb/b/bc/Digimon_Adventure_Group.tiff/lossless-page1-330px-Digimon_Adventure_Group.tiff.png
+Hatsune Miku|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Hatsune_miku_logo_v3.svg/500px-Hatsune_miku_logo_v3.svg.png
+Grimace|https://upload.wikimedia.org/wikipedia/commons/a/ae/Shaky.jpg
+Duolingo Owl
+Grumpy Cat|https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg/500px-Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg
+Doge|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Doge_meme_example.jpg/500px-Doge_meme_example.jpg
+Nyan Cat|https://upload.wikimedia.org/wikipedia/en/e/ed/Nyan_cat_250px_frame.PNG
+Harambe|https://upload.wikimedia.org/wikipedia/en/e/ee/Harambe_with_boy.jpg
+Big Chungus|https://upload.wikimedia.org/wikipedia/en/9/99/Wabbit_Twouble_Title_Card.png
+Pepe the Frog|https://upload.wikimedia.org/wikipedia/en/6/63/Feels_good_man.jpg
+Trollface|https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png
+Rick Astley|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg/500px-Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg
+Psy
+Salt Bae|https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Salt_Bae.png/500px-Salt_Bae.png
+Skibidi Toilet|https://thumb.wikimedia.org/wikipedia/en/thumb/6/60/Skibidi_Toilet_Logo.png/500px-Skibidi_Toilet_Logo.png
+Shrek's Gingy
+Bratz|https://upload.wikimedia.org/wikipedia/en/a/a5/Bratz_2020_logo.png
+Furby|https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Furby_brand_logo.svg/500px-Furby_brand_logo.svg.png
+`),
+
+cat('disney', 'Disney & Pixar', '🏰', `
+Mickey Mouse|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mickey_Mouse_%28poster_version%29.svg/500px-Mickey_Mouse_%28poster_version%29.svg.png
+Minnie Mouse|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Minnie_Mouse.svg/500px-Minnie_Mouse.svg.png
+Donald Duck|https://upload.wikimedia.org/wikipedia/en/a/a5/Donald_Duck_angry_transparent_background.png
+Daisy Duck|https://upload.wikimedia.org/wikipedia/en/1/1e/Daisy_Duck_Duckipedia.png
+Goofy|https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png
+Pluto|https://upload.wikimedia.org/wikipedia/commons/3/3c/Rover_in_The_Picnic_%28Mickey_Mouse_Cartoons%29.png
+Chip 'n' Dale|https://upload.wikimedia.org/wikipedia/en/d/dd/Chip_%27n%27_Dale_Duckipedia.png
+Snow White|https://upload.wikimedia.org/wikipedia/en/e/e1/Snow_white_disney.png
+Cinderella|https://upload.wikimedia.org/wikipedia/en/7/75/Cinderella2024design.png
+Aurora|https://upload.wikimedia.org/wikipedia/en/7/7f/Aurora_%28Sleeping_Beauty%29.png
+Ariel|https://upload.wikimedia.org/wikipedia/en/7/77/Ariel_disney.png
+Belle|https://upload.wikimedia.org/wikipedia/en/d/d5/Belle_disney.png
+Jasmine|https://upload.wikimedia.org/wikipedia/en/0/00/Jasmine_%28Aladdin%29.png
+Pocahontas|https://upload.wikimedia.org/wikipedia/en/5/57/Pocahontasposter.jpg
+Mulan|https://upload.wikimedia.org/wikipedia/en/a/a3/Movie_poster_mulan.JPG
+Tiana|https://upload.wikimedia.org/wikipedia/en/8/81/Tiana_Disney.png
+Rapunzel|https://upload.wikimedia.org/wikipedia/en/6/6a/Rapunzel_tangled.png
+Merida|https://upload.wikimedia.org/wikipedia/en/e/e8/Merida_disney.png
+Elsa|https://upload.wikimedia.org/wikipedia/en/5/5e/Elsa_from_Disney%27s_Frozen.png
+Anna|https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg
+Olaf|https://upload.wikimedia.org/wikipedia/en/6/6d/Olaf_from_Disney%27s_Frozen.png
+Kristoff
+Moana|https://upload.wikimedia.org/wikipedia/en/5/56/Moana_%28character%29.png
+Maui|https://upload.wikimedia.org/wikipedia/en/5/57/Maui_Disney.webp
+Mirabel Madrigal|https://upload.wikimedia.org/wikipedia/en/8/83/Encanto_poster.jpg
+Bruno Madrigal|https://upload.wikimedia.org/wikipedia/en/8/83/Encanto_poster.jpg
+Raya|https://upload.wikimedia.org/wikipedia/en/e/ea/Raya_and_the_Last_Dragon.png
+Stitch|https://thumb.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/500px-Stitch_%28Lilo_%26_Stitch%29.svg.png
+Lilo|https://upload.wikimedia.org/wikipedia/en/d/d9/LiloStitchCharacters.jpg
+Simba|https://upload.wikimedia.org/wikipedia/en/9/94/Simba_%28_Disney_character_-_adult%29.png
+Mufasa|https://upload.wikimedia.org/wikipedia/en/a/a0/Mufasa_promotional_image.webp
+Scar|https://upload.wikimedia.org/wikipedia/en/4/4d/Scar_lion_king.png
+Timon and Pumbaa|https://upload.wikimedia.org/wikipedia/en/9/91/Pumbaa.png
+Rafiki|https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg
+Aladdin|https://upload.wikimedia.org/wikipedia/en/b/be/Aladdin_Disney_pose.png
+Genie|https://upload.wikimedia.org/wikipedia/en/0/0c/The_Genie_Aladdin.png
+Jafar|https://upload.wikimedia.org/wikipedia/en/b/bd/Aladdin_%281992_Disney_film%29_poster.jpg
+Ursula|https://upload.wikimedia.org/wikipedia/en/e/e3/Ursula%28TheLittleMermaid%29character.png
+Sebastian the Crab|https://thumb.wikimedia.org/wikipedia/en/thumb/9/92/Disney_Little_Mermaid_characters.jpg/500px-Disney_Little_Mermaid_characters.jpg
+Maleficent|https://upload.wikimedia.org/wikipedia/en/7/7e/Malefica.jpg
+Cruella de Vil|https://upload.wikimedia.org/wikipedia/en/6/64/Cruella_de_Vil.png
+Captain Hook|https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Captain_Hook.PNG/500px-Captain_Hook.PNG
+Peter Pan|https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Peter_Pan_%281953_poster%29.jpg/500px-Peter_Pan_%281953_poster%29.jpg
+Tinker Bell|https://upload.wikimedia.org/wikipedia/commons/4/42/Tinkclose-1-.jpg
+Pinocchio|https://upload.wikimedia.org/wikipedia/en/b/ba/Pinocchio-1940-poster.jpg
+Dumbo|https://upload.wikimedia.org/wikipedia/en/a/a7/Dumbo-1941-poster.jpg
+Bambi|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bambi-Hans-Bertle.jpg/500px-Bambi-Hans-Bertle.jpg
+Alice in Wonderland|https://upload.wikimedia.org/wikipedia/commons/6/63/Alice_par_John_Tenniel_04.png
+The Cheshire Cat|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Tennel_Cheshire_proof.png/500px-Tennel_Cheshire_proof.png
+The Mad Hatter|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/MadlHatterByTenniel.svg/500px-MadlHatterByTenniel.svg.png
+Hercules|https://upload.wikimedia.org/wikipedia/en/7/76/Disney%27s_Hercules_characters.jpg
+Hades|https://upload.wikimedia.org/wikipedia/en/7/76/Disney%27s_Hercules_characters.jpg
+Tarzan|https://upload.wikimedia.org/wikipedia/en/4/4f/Tarzan_%281999_film%29_-_theatrical_poster.jpg
+Quasimodo|https://upload.wikimedia.org/wikipedia/en/2/26/The_Hunchback_of_Notre_Dame_1996_poster.jpg
+Gaston|https://upload.wikimedia.org/wikipedia/en/a/a7/Gaston%28BeautyandtheBeast%29.png
+The Beast
+Lumière|https://upload.wikimedia.org/wikipedia/en/b/b6/BeautyBeastCharacters.jpg
+Kuzco|https://upload.wikimedia.org/wikipedia/en/6/69/Grooveposter.jpg
+Yzma|https://upload.wikimedia.org/wikipedia/en/b/b3/TENGcharacters.jpg
+Mushu|https://upload.wikimedia.org/wikipedia/en/1/10/Mushu.png
+Baloo|https://upload.wikimedia.org/wikipedia/commons/9/9f/The_second_jungle_book_%281895%29_%28Baloo%29.jpg
+Mowgli|https://upload.wikimedia.org/wikipedia/commons/5/5e/Mowgli-1895-illustration.png
+Robin Hood|https://upload.wikimedia.org/wikipedia/en/9/91/Robinhood_1973_poster.png
+Judy Hopps|https://upload.wikimedia.org/wikipedia/en/9/96/Zootopia_%28movie_poster%29.jpg
+Nick Wilde
+Flash the Sloth|https://upload.wikimedia.org/wikipedia/en/9/96/Zootopia_%28movie_poster%29.jpg
+Wreck-It Ralph|https://thumb.wikimedia.org/wikipedia/en/thumb/6/6c/Wreck-It_Ralph_logo.svg/500px-Wreck-It_Ralph_logo.svg.png
+Vanellope von Schweetz|https://thumb.wikimedia.org/wikipedia/en/thumb/6/6c/Wreck-It_Ralph_logo.svg/500px-Wreck-It_Ralph_logo.svg.png
+Baymax|https://upload.wikimedia.org/wikipedia/en/2/21/Baymax_%28Marvel_Comics%29.jpg
+Mother Gothel|https://upload.wikimedia.org/wikipedia/en/f/fc/Gothel.png
+Flynn Rider|https://upload.wikimedia.org/wikipedia/en/4/48/Flynn_Rider_Eugene_Fitzherbert_Tangled.png
+The Evil Queen|https://upload.wikimedia.org/wikipedia/en/1/19/QueenSnowWhite.png
+Woody|https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Woody_at_Toy_Story_Land%2C_Hong_Kong.jpg/500px-Woody_at_Toy_Story_Land%2C_Hong_Kong.jpg
+Buzz Lightyear|https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai_%28cropped%29.jpg/500px-Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai_%28cropped%29.jpg
+Jessie the Cowgirl|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Jessie_at_Shanghai_Toy_Story_Land_%28cropped%29.jpg/500px-Jessie_at_Shanghai_Toy_Story_Land_%28cropped%29.jpg
+Rex|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Toy_Story_logo_2010.png/500px-Toy_Story_logo_2010.png
+Mr. Potato Head
+Lotso|https://upload.wikimedia.org/wikipedia/en/6/69/Toy_Story_3_poster.jpg
+Lightning McQueen|https://upload.wikimedia.org/wikipedia/en/8/82/Lightning_McQueen.png
+Mater|https://upload.wikimedia.org/wikipedia/en/f/f7/Mater_%28Cars%29.png
+WALL-E|https://upload.wikimedia.org/wikipedia/en/6/68/WALL-E_%28character%29.png
+Remy the Rat|https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg
+Carl Fredricksen|https://upload.wikimedia.org/wikipedia/en/9/9f/Carl_from_Up_2009.png
+Dug the Dog|https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg
+Mr. Incredible|https://upload.wikimedia.org/wikipedia/en/2/22/Mr._Incredible.png
+Elastigirl|https://upload.wikimedia.org/wikipedia/en/2/27/The_Incredibles_%282004_animated_feature_film%29.jpg
+Edna Mode|https://upload.wikimedia.org/wikipedia/en/f/fc/Edna_Mode_promotional_image.png
+Jack-Jack|https://upload.wikimedia.org/wikipedia/en/8/88/IncredibleFamily.jpg
+Syndrome|https://upload.wikimedia.org/wikipedia/en/8/88/IncredibleFamily.jpg
+Joy from Inside Out|https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg
+Anxiety from Inside Out|https://upload.wikimedia.org/wikipedia/en/f/f7/Inside_Out_2_poster.jpg
+Miguel from Coco|https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg
+Luca|https://upload.wikimedia.org/wikipedia/en/3/33/Luca_%282021_film%29.png
+Mei Lee|https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg
+Nemo|https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg
+Dory|https://upload.wikimedia.org/wikipedia/en/a/ae/Dory_%28Finding_Nemo%29.png
+Mike Wazowski|https://upload.wikimedia.org/wikipedia/en/6/6a/Mike_Wazowski.png
+Sulley|https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.JPG
+Boo|https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.JPG
+Winnie the Pooh|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Pooh_Shepard1928.jpg/500px-Pooh_Shepard1928.jpg
+Tigger|https://upload.wikimedia.org/wikipedia/en/3/34/Pooh_meets_Tigger%2C_illustration_by_EH_Shepard.gif
+Eeyore|https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Winnie-the-Pooh_166-1.png/500px-Winnie-the-Pooh_166-1.png
+Perry the Platypus|https://upload.wikimedia.org/wikipedia/en/d/dc/Perry_the_Platypus.png
+`),
+
+cat('history', 'History', '📜', `
+Alexander the Great|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/500px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg
+Socrates|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/500px-Socrates_Louvre.jpg
+Plato|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/500px-Plato_Silanion_Musei_Capitolini_MC1377.png
+Aristotle|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/500px-Aristotle_Altemps_Inv8575.jpg
+Confucius|https://upload.wikimedia.org/wikipedia/commons/7/7e/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China_%28cropped%29.jpg
+Sun Tzu|https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg
+Buddha|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg/500px-Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg
+Tutankhamun|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/500px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg
+Ramesses II|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/500px-Ramses_II_British_Museum.jpg
+Nefertiti|https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/500px-Nofretete_Neues_Museum.jpg
+Hammurabi|https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg/500px-F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg
+Cyrus the Great|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg/500px-Cyrus_II_%28The_Great%29_%28cropped%29.jpg
+Hannibal Barca|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/500px-Hannibal_Barca_bust_from_Capua_photo.jpg
+Spartacus|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%CE%A3%CF%80%CE%AC%CF%81%CF%84%CE%B1%CE%BA%CE%BF%CF%82_Spartacus%2CEspartaco_marble_statue_in_Louvre_%22%CE%9C%CE%B1%CE%B9%CE%B4%CE%BF%CE%B9_clan_-Meadow%22_slave_macedon-greek.jpg/500px-%CE%A3%CF%80%CE%AC%CF%81%CF%84%CE%B1%CE%BA%CE%BF%CF%82_Spartacus%2CEspartaco_marble_statue_in_Louvre_%22%CE%9C%CE%B1%CE%B9%CE%B4%CE%BF%CE%B9_clan_-Meadow%22_slave_macedon-greek.jpg
+Augustus|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/500px-Augustus_of_Prima_Porta.jpg
+Nero|https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/500px-Nero_Glyptothek_Munich_321.jpg
+Caligula|https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Caligula.Carlsberg_Glyptotek.%28cropped%29.jpg/500px-Caligula.Carlsberg_Glyptotek.%28cropped%29.jpg
+Marcus Aurelius|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/500px-MSR-ra-61-b-1-DM.jpg
+Attila the Hun
+Qin Shi Huang|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/QinShiHuang19century.jpg/500px-QinShiHuang19century.jpg
+Charlemagne|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/500px-Charlemagne_denier_Mayence_812_814.jpg
+Joan of Arc|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/500px-Joan_of_Arc_miniature_graded.jpg
+William the Conqueror|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/William_the_Conqueror_%28TFA%29.jpg/500px-William_the_Conqueror_%28TFA%29.jpg
+Richard the Lionheart|https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg/500px-Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg
+Saladin|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg
+Kublai Khan|https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/500px-YuanEmperorAlbumKhubilaiPortrait.jpg
+Marco Polo|https://upload.wikimedia.org/wikipedia/commons/f/ff/Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png
+Mansa Musa|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/500px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg
+Ibn Battuta|https://upload.wikimedia.org/wikipedia/commons/9/9c/Handmade_oil_painting_reproduction_of_Ibn_Battuta_in_Egypt%2C_a_painting_by_Hippolyte_Leon_Benett..jpg
+Leif Erikson|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Leif_Erikson_Statue%2C_Duluth_%2815290644106%29.jpg/500px-Leif_Erikson_Statue%2C_Duluth_%2815290644106%29.jpg
+Ragnar Lothbrok|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Harley_MS_2278%2C_folio_39r_excerpt.jpg/500px-Harley_MS_2278%2C_folio_39r_excerpt.jpg
+Christopher Columbus|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/500px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg
+Vasco da Gama|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/500px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg
+Ferdinand Magellan|https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ferdinand_Magellan.jpg/500px-Ferdinand_Magellan.jpg
+Montezuma|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Moctezuma_Mendoza.jpg/500px-Moctezuma_Mendoza.jpg
+Henry VIII|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/500px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg
+Queen Elizabeth I|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/500px-Darnley_stage_3.jpg
+Queen Victoria|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/500px-Queen_Victoria_by_Bassano.jpg
+Catherine the Great|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg/500px-Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg
+Peter the Great|https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg/500px-Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg
+Ivan the Terrible|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/IoannIV_reconstruction_by_Gerasimov02.jpg/500px-IoannIV_reconstruction_by_Gerasimov02.jpg
+Marie Antoinette|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg/500px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg
+Louis XIV|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/500px-Louis_XIV_of_France.jpg
+Suleiman the Magnificent|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg
+Niccolò Machiavelli|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg/500px-Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg
+Michelangelo|https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/500px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg
+Galileo Galilei|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-500px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg
+Nicolaus Copernicus|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/500px-Nikolaus_Kopernikus_MOT.jpg
+Archimedes|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/500px-Domenico-Fetti_Archimedes_1620.jpg
+Pythagoras|https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/500px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg
+Charles Darwin|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg
+Marie Curie|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/500px-Marie_Curie_c._1920s.jpg
+Thomas Edison|https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/500px-Thomas_Edison2.jpg
+Alexander Graham Bell|https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/500px-Alexander_Graham_Bell_1895_NPG_77_363.jpg
+The Wright Brothers|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Orville_Wright_1905-crop.jpg/500px-Orville_Wright_1905-crop.jpg
+Henry Ford|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Henry_Ford_portrait_1915_original_%283x4_cropped%29.png/500px-Henry_Ford_portrait_1915_original_%283x4_cropped%29.png
+Ada Lovelace|https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/500px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png
+Alan Turing|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Alan_turing_header.jpg/500px-Alan_turing_header.jpg
+J. Robert Oppenheimer|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/500px-Oppenheimer_%28cropped%29.jpg
+Sigmund Freud|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/500px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg
+Florence Nightingale|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/500px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg
+George Washington|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/500px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
+Thomas Jefferson|https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/500px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg
+Benjamin Franklin|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/500px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg
+Alexander Hamilton|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/500px-Alexander_Hamilton_%28NPG%29.jpg
+Harriet Tubman|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg/500px-Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg
+Frederick Douglass|https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg/500px-Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg
+Sitting Bull|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Sitting_Bull_by_D_F_Barry_ca_1883_Dakota_Territory.jpg/500px-Sitting_Bull_by_D_F_Barry_ca_1883_Dakota_Territory.jpg
+Billy the Kid|https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Billy_the_Kid_tintype%2C_Fort_Sumner%2C_1879-80-Edit2.jpg/500px-Billy_the_Kid_tintype%2C_Fort_Sumner%2C_1879-80-Edit2.jpg
+Harry Houdini|https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Harry_Handcuff_Houdini_Crop.jpg/500px-Harry_Handcuff_Houdini_Crop.jpg
+Winston Churchill|https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/500px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg
+Franklin D. Roosevelt|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/500px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg
+Theodore Roosevelt|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/500px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg
+John F. Kennedy|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg
+Malcolm X|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg/500px-Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg
+Susan B. Anthony|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/SB_Anthony_from_RoRaWW.jpg/500px-SB_Anthony_from_RoRaWW.jpg
+Simón Bolívar|https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png/500px-Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png
+Toussaint Louverture|https://upload.wikimedia.org/wikipedia/commons/c/cc/Toussaint_Louverture_par_Pierre-Charles_Baquoy.jpg
+Karl Marx|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png/500px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png
+Vladimir Lenin|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/500px-Lenin_in_1920_%28cropped%29.jpg
+Fidel Castro|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Fidel_Castro_1950s_%28cropped%29.jpg/500px-Fidel_Castro_1950s_%28cropped%29.jpg
+Ho Chi Minh|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ho_Chi_Minh_-_1946_Portrait_%28cropped%29.jpg/500px-Ho_Chi_Minh_-_1946_Portrait_%28cropped%29.jpg
+Haile Selassie|https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Haile_Selassie_in_full_dress_%283x4_cropped%29.jpg/500px-Haile_Selassie_in_full_dress_%283x4_cropped%29.jpg
+Menelik II|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Menelik_II_in_coronation_garb%2C_Emperor_of_Ethiopia.jpg/500px-Menelik_II_in_coronation_garb%2C_Emperor_of_Ethiopia.jpg
+Empress Taytu|https://upload.wikimedia.org/wikipedia/commons/4/42/Taicron.gif
+Shaka Zulu|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/KingShaka.jpg/500px-KingShaka.jpg
+Kwame Nkrumah|https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg/500px-Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg
+Patrice Lumumba|https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/PatriceLumumba1960.jpg/500px-PatriceLumumba1960.jpg
+Thomas Sankara|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png/500px-Thomas_Sankara_in_Harlem_%281984%29.png
+Jane Austen|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/500px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg
+Charles Dickens|https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/500px-Dickens_Gurney_head.jpg
+Mark Twain|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg/500px-Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg
+Edgar Allan Poe|https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg
+Ernest Hemingway|https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/ErnestHemingway.jpg/500px-ErnestHemingway.jpg
+Homer|https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg/500px-Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg
+Dante Alighieri|https://upload.wikimedia.org/wikipedia/commons/e/ea/Bargello_-_Kapelle_Fresko_2a.jpg
+Rasputin|https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rasputin_PA.jpg/500px-Rasputin_PA.jpg
+Vlad the Impaler|https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg/500px-Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg
 `),
 
 ];
